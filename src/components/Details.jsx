@@ -8,38 +8,38 @@ const Details = (props) => {
     const [Data, setData] = useState([
         {
             id: 0,
-            name : "neeraja",
+            name : "meghana",
             age : "23",
-            course : "MERN" ,
-            batch : "december"
+            course : "EA" ,
+            batch : "August"
         },
         {
             id: 1,
-            name : "Sanjay",
-            age : "23",
-            course : "MEAN" ,
-            batch : "March"
+            name : "Pinky",
+            age : "22",
+            course : "EA" ,
+            batch : "May"
         },
         {
             id: 2,
-            name : "Rahul",
-            age : "23",
-            course : "MEVN" ,
-            batch : "January"
+            name : "Harshi",
+            age : "21",
+            course : "EA" ,
+            batch : "August"
         },
         {
             id: 3,
-            name : "Alkesh",
+            name : "Bhoomika",
             age : "24",
-            course : "MERN" ,
-            batch : "March"
+            course : "EA" ,
+            batch : "May"
         },
         {
             id: 4,
-            name : "Namitha",
+            name : "Chandini",
             age : "23",
-            course : "MEAN" ,
-            batch : "September"
+            course : "EA" ,
+            batch : "May"
         }
     ])
 
